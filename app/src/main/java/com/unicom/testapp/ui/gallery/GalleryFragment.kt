@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.unicom.testapp.R
 
-class GalleryFragment : Fragment() {
+class GalleryFragment : Fragment(R.layout.fragment_gallery) {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
