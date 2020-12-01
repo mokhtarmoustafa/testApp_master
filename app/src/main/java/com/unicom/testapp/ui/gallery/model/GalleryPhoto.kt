@@ -1,4 +1,4 @@
-package com.unicom.testapp.data
+package com.unicom.testapp.ui.gallery.model
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
